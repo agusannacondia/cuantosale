@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #7cc576;
+  color: #fff;
 }
 
 a:hover {
-  color: #9ed49a;
+  color: #eee;
   text-decoration: none;
 }
 
@@ -45,13 +45,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #7cc576;
+  background: #760000;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #61b959;
+  background: #760000;
   color: #fff;
 }
 
@@ -270,7 +270,7 @@ section {
 .services .icon-box i {
   font-size: 48px;
   float: left;
-  color: #7cc576;
+  color: #760000;
 }
 
 .services .icon-box p {
@@ -367,7 +367,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #7cc576 !important;
+  background-color: #760000 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -499,7 +499,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #7cc576;
+  background: #fff;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -507,7 +507,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #5ab652;
+  background: #fff;
 }
 
 #footer .footer-top .social-links {
